@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: aquamarine;
+}
+.genres{
+    width: 20%;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    border-color: black;
+}
+
+.genres-title{
+    background-color: #64aaed;
+    margin-top: 50px;
+    border-color: black;
+    font-weight: bold;
+    text-align: center;
+    font-size: 24pt;
+}
+
+.list-group-item:hover{
+    background-color: #64aaed;
+    color: aquamarine;
+}
+
+.list-group-item{
+    font-size: 15pt;
+}
+
+.navbar{
+    font-size: 18pt;
+}
+
+.books__list{
+
+}
